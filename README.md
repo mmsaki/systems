@@ -22,4 +22,4 @@ Types of messaging systems
    1. Amazon SNS
    1. Google Cloud Pub/Sub
 
-> **Note**: We will create somethin unique that has a little bit of everything
+> **Note**: We will create something unique that has a little bit of everything
